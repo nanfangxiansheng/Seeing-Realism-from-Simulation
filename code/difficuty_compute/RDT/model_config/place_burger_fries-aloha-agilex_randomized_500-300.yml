@@ -1,0 +1,16 @@
+# Generated on 2025-12-28 14:21:07
+model: RDT_place_burger_fries_aloha_agilex_randomized_500_300
+data_path: processed_data/place_burger_fries-aloha-agilex_randomized_500-300
+checkpoint_path: checkpoints/RDT_place_burger_fries_aloha_agilex_randomized_500_300
+pretrained_model_name_or_path: ../weights/RDT/rdt-1b
+cuda_visible_device: "4"
+train_batch_size: 16
+sample_batch_size: 64
+max_train_steps: 10000
+checkpointing_period: 2500
+sample_period: 100
+checkpoints_total_limit: 40
+learning_rate: 0.0001
+dataloader_num_workers: 8
+state_noise_snr: 40
+gradient_accumulation_steps: 1
