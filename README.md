@@ -1,6 +1,6 @@
 Note: this is the code collection of paper:
 
-**Seeing Realism from Simulation: Efficient Video Transfer for Vision-Language-Action Data Augmentation**
+**[Seeing Realism from Simulation: Efficient Video Transfer for Vision-Language-Action Data Augmentation](https://arxiv.org/abs/2605.02757)**
 
 # Project Setup and Usage for coreselection
 
