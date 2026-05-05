@@ -1,4 +1,4 @@
-Note: this is the code collection of paper:
+Note: this is the code collection of paper[ICML 2026 accepted as regular]:
 
 **[Seeing Realism from Simulation: Efficient Video Transfer for Vision-Language-Action Data Augmentation](https://arxiv.org/abs/2605.02757)**
 
