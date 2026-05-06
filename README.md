@@ -1,8 +1,9 @@
-Note: this is the code collection of paper[ICML 2026 accepted as regular]:
+Note: this is the code collection of paper [ICML 2026 accepted as regular]:
 
 **[Seeing Realism from Simulation: Efficient Video Transfer for Vision-Language-Action Data Augmentation](https://arxiv.org/abs/2605.02757)**
-**A poster on xiaohongshu platform is as follows: **
-71 【ICML2026：低成本破解VLA的Sim-to-Real难题 - 爱学人工智能 | 小红书 - 你的生活兴趣社区】 😆 L2Bw0TnkqAC2BjS 😆 https://www.xiaohongshu.com/discovery/item/69f9af07000000003501c545?source=webshare&xhsshare=pc_web&xsec_token=CBh2WwN_bAasqgtLRVlQPMWA6Toz_pOdPnm4cBrXdXi6k=&xsec_source=pc_share
+
+
+- 71 【ICML2026：低成本破解VLA的Sim-to-Real难题 - 爱学人工智能 | 小红书 - 你的生活兴趣社区】 😆 L2Bw0TnkqAC2BjS 😆 https://www.xiaohongshu.com/discovery/item/69f9af07000000003501c545?source=webshare&xhsshare=pc_web&xsec_token=CBh2WwN_bAasqgtLRVlQPMWA6Toz_pOdPnm4cBrXdXi6k=&xsec_source=pc_share
 
 # Project Setup and Usage for coreselection
 
