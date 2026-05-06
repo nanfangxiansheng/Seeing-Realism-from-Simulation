@@ -1,9 +1,10 @@
 Note: this is the code collection of paper [ICML 2026 accepted as regular]:
 
 **[Seeing Realism from Simulation: Efficient Video Transfer for Vision-Language-Action Data Augmentation](https://arxiv.org/abs/2605.02757)**
+
 The framework is as follows:
 
-file:///home/hcy/%E5%9B%BE%E7%89%87/2026-05-06%2010-57-06%20%E7%9A%84%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png<img width="1621" height="721" alt="图片" src="https://github.com/user-attachments/assets/64fa70e8-a506-4614-8522-5a84b8db7a7c" />
+<img width="1621" height="721" alt="图片" src="https://github.com/user-attachments/assets/64fa70e8-a506-4614-8522-5a84b8db7a7c" />
 
 The poster on xiaohongshu platform is as follows:
 
